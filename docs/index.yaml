@@ -6429,7 +6429,7 @@ entries:
         - https://alpap.github.io/stakater-charts/gitwebhookproxy-v0.2.80.tgz
       version: v0.2.80
     - apiVersion: v1
-      created: '2021-04-08T15:40:26.956964676Z'
+      created: '2023-04-08T15:40:26.956964676Z'
       description: GitWebhookProxy chart that runs on kubernetes
       digest: 3c65960b7cb5510205881f54530158950bb7f452ccf19845e91627f4669f0890
       home: https://github.com/alpap/GitWebhookProxy
