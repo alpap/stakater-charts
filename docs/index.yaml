@@ -6416,7 +6416,7 @@ entries:
     - apiVersion: v1
       created: '2021-04-08T15:40:26.956964676Z'
       description: GitWebhookProxy chart that runs on kubernetes
-      digest: 0ca3ef1f8b4fc65fc8fa5ceb6703608e68ec34c514ab4dac2bc1aae11800db5c
+      digest: 101b3165c27fd7b2bcc8ee4189c21b0e933444e7f0eeb86345d101c8119c6330
       home: https://github.com/alpap/GitWebhookProxy
       keywords:
         - GitWebhookProxy
